@@ -1,0 +1,17 @@
+.main-div{
+  width: 80%;
+  height: 150px;
+  border: 1px solid black;
+  margin: 10px;
+  text-align: center;
+  padding: 10px;
+
+}
+
+.par-button{
+  width: 50%;
+  color: blue;
+  font-weight: 700;
+  border-radius: 3px;
+  border: 1px solid gray;
+}

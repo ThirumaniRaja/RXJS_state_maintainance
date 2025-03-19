@@ -1,0 +1,7 @@
+<div class="cart">
+    <h2>Shopping Cart</h2>
+    <div *ngFor="let item of cartService.getCartItems()" class="cart-item">
+      <p>{{ item.name }} - ${{ item.price }}</p>
+    </div>
+  </div>
+  

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { createAction, props } from '@ngrx/store';\n// Action to save form data\nexport const saveFormData = createAction('[Form] Save Form Data', props());\n// Action to reset form\nexport const resetForm = createAction('[Form] Reset Form');","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
